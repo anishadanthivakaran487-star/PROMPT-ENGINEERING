@@ -8,6 +8,10 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
+# Required AI Tools:
+1. ChatGPT
+2. Claude
+
 # Algorithm:
 Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
@@ -65,12 +69,6 @@ Step 7: Finalize and Export
 ## ChatGPT:
 ### 1. Explain the Foundational Concepts of Generative AI
 
-**Prompt:**
-
-Explain the foundational concepts of Generative AI, including its definition, working principle, types, applications, advantages, and limitations in simple and detailed language.
-
-**Answer:**
-
 Generative Artificial Intelligence (Generative AI) is a branch of AI that creates new content based on patterns learned from existing data. It can generate text, images, audio, videos, and computer code.
 
 Unlike traditional AI, which mainly classifies data or makes predictions, Generative AI can produce new content based on user instructions.
@@ -103,12 +101,6 @@ Unlike traditional AI, which mainly classifies data or makes predictions, Genera
 Generative AI saves time, supports creativity, and improves productivity. However, it may generate incorrect information, reflect bias, and raise privacy and copyright concerns.
 
 ## 2. Explain Generative AI Architectures, Focusing on Transformers
-
-**Prompt:**
-
-Explain the major Generative AI architectures, focusing on Transformers. Describe their components, working process, advantages, and limitations in simple language.
-
-**Answer:**
 
 Generative AI architecture refers to the structure of an AI model that learns patterns and generates new content. Major architectures include Transformers, GANs, VAEs, and Diffusion Models.
 
@@ -143,12 +135,6 @@ For text generation, the model selects a token and repeats the process until the
 Transformers can process context effectively, handle complex language tasks, and scale to large datasets. However, they require considerable computing resources and can generate incorrect information.
 
 ## 3. Explain Generative AI Architectures and Their Applications
-
-**Prompt:**
-
-Describe Transformers, GANs, VAEs, and Diffusion Models. Explain how each architecture works and its applications in different industries using simple examples.
-
-**Answer:**
 
 Generative AI architectures are used to create different types of content. Each architecture works differently and is suitable for particular tasks.
 
@@ -210,12 +196,6 @@ Example: A user can describe a landscape in text, and an image-generation model 
 
 ## 4. Explain the Impact of Scaling in Large Language Models (LLMs)
 
-**Prompt:**
-
-Explain how scaling affects Large Language Models. Include model size, training data, computing power, performance improvements, costs, challenges, and efficient scaling methods in simple language.
-
-**Answer:**
-
 Scaling in Large Language Models refers to increasing the model's size, training data, or computing resources to improve its capabilities.
 
 ### Factors Affecting Scaling
@@ -271,12 +251,6 @@ For example, a larger model trained with sufficient high-quality data may perfor
 These techniques can reduce costs and improve efficiency while maintaining useful performance.
 
 ## 5. Explain Large Language Models (LLMs) and How They Are Built
-
-**Prompt:**
-
-Explain what a Large Language Model is and describe how it is built step by step, including data collection, preprocessing, tokenization, architecture, training, fine-tuning, evaluation, and deployment.
-
-**Answer:**
 
 A Large Language Model (LLM) is an AI model trained on large amounts of text and sometimes code or other data. It learns patterns in language and uses them to generate responses.
 
