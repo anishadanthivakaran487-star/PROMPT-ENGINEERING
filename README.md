@@ -1,3 +1,5 @@
+# NAME: ANISH ADAN THIVAKARAN
+# REG.NO: 212225230017
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
@@ -339,27 +341,6 @@ Monitor the model's performance, fix problems, improve efficiency, and update th
 LLMs may produce incorrect information, reflect biases, require significant computing resources, and have limited knowledge of events beyond their available information. Therefore, their outputs should be verified when accuracy is important.
 
 ## Claude:
-# Comparing Generative AI Models Using Identical Prompts
-
-## Objective
-Compare the behaviour of different Generative AI models by giving them the same prompts.
-
-## AI Tools Used
-1. Claude (Anthropic)
-2. ChatGPT (OpenAI)
-
-## Prompts
-
-1. Explain the foundational concepts of Generative AI.
-2. Explain Generative AI architectures, focusing on transformers.
-3. Explain Generative AI architectures and their applications.
-4. Explain the impact of scaling in Large Language Models (LLMs).
-5. Explain what an LLM is and how it is built.
-
----
-
-## Output (Claude)
-
 ### 1. Foundational Concepts of Generative AI
 
 **What is Generative AI?**
